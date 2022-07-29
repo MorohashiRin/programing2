@@ -1,0 +1,2 @@
+C:\Users\Daiki\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.exe
+C:\Users\Daiki\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.pdb

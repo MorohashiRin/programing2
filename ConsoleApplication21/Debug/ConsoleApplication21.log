@@ -1,0 +1,12 @@
+﻿  ConsoleApplication21.cpp
+C:\Users\Daiki\source\repos\ConsoleApplication21\ConsoleApplication21.cpp(84,27): warning C4244: '=': '_Rep' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Daiki\source\repos\ConsoleApplication21\ConsoleApplication21.cpp(147,25): warning C4244: '引数': '_Rep' から 'unsigned int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=__int64
+          ]
+  ConsoleApplication21.vcxproj -> C:\Users\Daiki\source\repos\ConsoleApplication21\Debug\ConsoleApplication21.exe
